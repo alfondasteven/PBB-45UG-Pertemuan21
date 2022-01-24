@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512297661756",
+    "project_id": "cobauas-a72f7",
+    "storage_bucket": "cobauas-a72f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512297661756:android:1ef0c7aa6b06edd6d25a39",
+        "android_client_info": {
+          "package_name": "com.fonda.cobauas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512297661756-5l19v5ohka8l5dfrbvq83g5865iq5knd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxd-yU2668c5LlXmu7c4pNsn3fVTl1nzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512297661756-5l19v5ohka8l5dfrbvq83g5865iq5knd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
